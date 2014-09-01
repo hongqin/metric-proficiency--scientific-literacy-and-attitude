@@ -1,4 +1,4 @@
-metric-proficiency--scientific-literacy-and-attitude
+Metric Proficiency, Scientific Literacy and Attitude
 ====================================================
 
 Suvey data and analysis on the metric proficiency, scientific literaccy and attitude.
