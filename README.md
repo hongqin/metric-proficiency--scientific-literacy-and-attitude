@@ -13,6 +13,7 @@ Freedman, Michael P. Journal of Research in Science Teaching, 1997, vol 34(4), p
 
 TODO: 
   Updated data
-  Principla component analysis
+  
+  Principal component analysis for inter-dependency
   
 
