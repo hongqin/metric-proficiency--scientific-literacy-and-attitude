@@ -10,6 +10,11 @@ See also blog at:
 References:
 Freedman, Michael P. Journal of Research in Science Teaching, 1997, vol 34(4), p343-357, Relationship among laboratory instruction, attitude toward science, and achievement in science knowledge. 
 
+Productive failure
+http://manukapur.com/productive-failure/
+
+Growth mindset
+
 
 TODO: 
   Updated data
